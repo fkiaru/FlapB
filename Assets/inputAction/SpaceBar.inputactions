@@ -1,0 +1,45 @@
+{
+    "name": "SpaceBar",
+    "maps": [
+        {
+            "name": "Map1",
+            "id": "a144a450-5640-4996-a510-9eb566ab638d",
+            "actions": [
+                {
+                    "name": "Space",
+                    "type": "Button",
+                    "id": "7a7b45df-b1f1-408f-95c1-2fdf5a664488",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ae1a1d31-b4b1-4f2f-b542-9091c23271dc",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Space",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8ea01dc0-1376-4d81-a6d0-b1c4f51188db",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Space",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
